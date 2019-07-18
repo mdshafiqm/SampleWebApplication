@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Hello World! trigger webhook to jenkins</h2>
 <h3>Message: <font color="green">${msgArgument}</font></h3>
 </body>
 </html>
